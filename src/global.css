@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;0,600;0,700;0,900;1,400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-nunito: Nunito;
+
+  /* font sizes */
+  --font-size-16xl: 35px;
+  --font-size-11xl: 30px;
+  --font-size-4xl: 23px;
+  --font-size-6xl: 25px;
+  --font-size-31xl: 50px;
+  --font-size-41xl: 60px;
+  --font-size-45xl: 64px;
+  --font-size-5xl: 24px;
+  --font-size-77xl: 96px;
+  --font-size-131xl: 150px;
+  --font-size-13xl: 32px;
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gold-100: #f9db3d;
+  --color-gold-200: #ffcb13;
+  --color-gold-300: #edca38;
+  --color-gold-400: rgba(255, 203, 19, 0.9);
+  --color-gold-500: rgba(237, 202, 56, 0.69);
+  --color-black: #000;
+  --color-dimgray-100: #6a6a6a;
+  --color-dimgray-200: rgba(106, 106, 106, 0.4);
+  --color-dimgray-300: rgba(106, 106, 106, 0.75);
+  --color-dimgray-400: rgba(106, 106, 106, 0.69);
+  --color-gray: #1a1a1a;
+  --color-gainsboro-100: #d9d9d9;
+  --color-gainsboro-200: rgba(217, 217, 217, 0.25);
+
+  /* Paddings */
+  --padding-24xl: 43px;
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+  --br-6xl: 25px;
+  --br-3xs: 10px;
+  --br-131xl: 150px;
+  --br-11xl: 30px;
+  --br-8xs: 5px;
+  --br-26xl: 45px;
+}

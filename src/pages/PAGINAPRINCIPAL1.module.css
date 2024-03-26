@@ -1,0 +1,558 @@
+.fondoGeneral {
+  position: absolute;
+  top: -29px;
+  left: -37px;
+  background-color: var(--color-black);
+  width: 1995px;
+  height: 5721px;
+}
+.logoIcon,
+.mailfilledIcon {
+  position: absolute;
+  top: 65px;
+  left: 1794px;
+  width: 90px;
+  height: 85px;
+  overflow: hidden;
+}
+.logoIcon {
+  height: 100%;
+  width: 44.35%;
+  top: 0;
+  right: 55.65%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.constructora {
+  margin: 0;
+}
+.constructoraAlianzaSasContainer {
+  position: absolute;
+  height: 30.76%;
+  width: 55.65%;
+  top: 39.67%;
+  left: 44.35%;
+  font-weight: 900;
+  display: inline-block;
+}
+.ecabezado {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 602px;
+  height: 211px;
+  color: var(--color-gold-400);
+}
+.proyectos {
+  position: absolute;
+  top: 105px;
+  left: 664px;
+  font-weight: 500;
+}
+.contactanos,
+.iniciarSesion,
+.oficinaVirtual {
+  position: absolute;
+  top: 105px;
+  left: 1085px;
+  font-weight: 500;
+}
+.contactanos,
+.iniciarSesion {
+  left: 1325px;
+}
+.contactanos {
+  left: 868px;
+}
+.basiluserSolidIcon {
+  position: absolute;
+  top: 52px;
+  left: 1642px;
+  width: 110px;
+  height: 110px;
+  overflow: hidden;
+}
+.pieDePaguinaChild {
+  position: absolute;
+  height: 85.64%;
+  width: 33.2%;
+  top: 14.36%;
+  right: 0.41%;
+  bottom: 0;
+  left: 66.39%;
+  background-color: var(--color-dimgray-100);
+}
+.proyectosActivos {
+  position: absolute;
+  height: 4.21%;
+  width: 23.03%;
+  top: 17.71%;
+  left: 68.41%;
+  font-weight: 900;
+  display: inline-block;
+}
+.pieDePaguinaItem {
+  position: absolute;
+  height: 85.64%;
+  width: 33.2%;
+  top: 14.36%;
+  right: 33.61%;
+  bottom: 0;
+  left: 33.2%;
+  background-color: var(--color-gray);
+}
+.numerosDeContactoContainer {
+  position: absolute;
+  height: 49.18%;
+  width: 24.22%;
+  top: 32.93%;
+  left: 37.91%;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  text-align: left;
+  display: inline-block;
+}
+.contactanos1 {
+  position: absolute;
+  height: 4.73%;
+  width: 18.78%;
+  top: 17.8%;
+  left: 36.46%;
+  font-weight: 900;
+  display: inline-block;
+}
+.pieDePaguinaInner {
+  position: absolute;
+  height: 85.64%;
+  width: 33.2%;
+  top: 14.36%;
+  right: 66.8%;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-black);
+}
+.loremIpsumDolor {
+  position: absolute;
+  height: 25.19%;
+  width: 24.95%;
+  top: 31.99%;
+  left: 3.37%;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  white-space: pre-wrap;
+  text-align: left;
+  display: inline-block;
+}
+.nuestrasOficinas {
+  position: absolute;
+  top: 18.4%;
+  left: 1.5%;
+  font-weight: 900;
+}
+.encabezadoEstetic {
+  position: absolute;
+  height: 14.36%;
+  width: 99.59%;
+  top: 0;
+  right: 0.41%;
+  bottom: 85.64%;
+  left: 0;
+  background-color: var(--color-gold-100);
+}
+.inCommodoEst {
+  margin-bottom: 0;
+}
+.loremIpsumDolorSitAmetI {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-24xl);
+}
+.loremIpsumDolorContainer {
+  position: absolute;
+  height: 55.98%;
+  width: 23.81%;
+  top: 29.41%;
+  left: 68.46%;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  text-align: left;
+  display: inline-block;
+}
+.pieDePaguina {
+  position: absolute;
+  top: 4318px;
+  left: 0;
+  width: 1928px;
+  height: 1163px;
+  font-size: var(--font-size-29xl);
+}
+.alianzasYSubsidiosChild,
+.alianzasYSubsidiosChild1,
+.alianzasYSubsidiosChild2,
+.alianzasYSubsidiosInner,
+.alianzasYSubsidiosItem,
+.rectangleDiv {
+  position: absolute;
+  height: 34.48%;
+  width: 11.57%;
+  top: 133.1%;
+  right: 76.33%;
+  bottom: -67.59%;
+  left: 12.1%;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-gainsboro-100);
+}
+.alianzasYSubsidiosChild1,
+.alianzasYSubsidiosChild2,
+.alianzasYSubsidiosInner,
+.alianzasYSubsidiosItem,
+.rectangleDiv {
+  right: 30.69%;
+  left: 57.75%;
+}
+.alianzasYSubsidiosChild1,
+.alianzasYSubsidiosChild2,
+.alianzasYSubsidiosInner,
+.rectangleDiv {
+  right: 53.51%;
+  left: 34.93%;
+}
+.alianzasYSubsidiosChild1,
+.alianzasYSubsidiosChild2,
+.rectangleDiv {
+  top: 65.52%;
+  right: 19.43%;
+  bottom: 0;
+  left: 69.01%;
+}
+.alianzasYSubsidiosChild1,
+.alianzasYSubsidiosChild2 {
+  right: 42.25%;
+  left: 46.18%;
+}
+.alianzasYSubsidiosChild2 {
+  right: 65.07%;
+  left: 23.36%;
+}
+.empresasAliadas {
+  position: absolute;
+  height: 35.86%;
+  width: 100%;
+  top: 14.25%;
+  left: -9.25%;
+  font-weight: 900;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.alianzasYSubsidiosChild3 {
+  position: absolute;
+  height: 34.48%;
+  width: 11.57%;
+  top: 65.52%;
+  right: 87.9%;
+  bottom: 0;
+  left: 0.54%;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-gainsboro-100);
+}
+.alianzasYSubsidios {
+  position: absolute;
+  top: 3392px;
+  left: 481px;
+  width: 1297px;
+  height: 435px;
+}
+.loremIpsumDolor2 {
+  position: absolute;
+  height: 34.44%;
+  width: 14.25%;
+  top: 65.56%;
+  left: 88.84%;
+  font-weight: 500;
+  display: inline-block;
+}
+.div {
+  position: absolute;
+  top: 518px;
+  left: 1011px;
+  font-size: var(--font-size-131xl);
+  font-weight: 900;
+}
+.vectorSavIcon {
+  position: absolute;
+  top: 257px;
+  left: 1019px;
+  width: 270px;
+  height: 270px;
+  overflow: hidden;
+}
+.loremIpsumDolor3 {
+  position: absolute;
+  height: 34.44%;
+  width: 14.25%;
+  top: 41.45%;
+  left: 51.15%;
+  font-weight: 500;
+  display: inline-block;
+}
+.div1 {
+  position: absolute;
+  top: 332px;
+  left: 545px;
+  font-size: var(--font-size-131xl);
+  font-weight: 900;
+}
+.vectorFamIcon {
+  position: absolute;
+  top: 534px;
+  left: 511px;
+  width: 270px;
+  height: 270px;
+  overflow: hidden;
+}
+.loremIpsumDolor4 {
+  position: absolute;
+  height: 34.44%;
+  width: 14.25%;
+  top: 65.56%;
+  left: 13.62%;
+  font-weight: 500;
+  display: inline-block;
+}
+.div2 {
+  position: absolute;
+  top: 522px;
+  left: 8px;
+  font-size: var(--font-size-131xl);
+  font-weight: 900;
+}
+.vectorBuildIcon {
+  position: absolute;
+  top: 260px;
+  left: 0;
+  width: 270px;
+  height: 270px;
+  overflow: hidden;
+}
+.cifras1 {
+  position: absolute;
+  height: 19.9%;
+  width: 58.19%;
+  top: 0;
+  left: 21.85%;
+  font-size: var(--font-size-77xl);
+  font-weight: 900;
+  display: inline-block;
+  mix-blend-mode: normal;
+}
+.cifras {
+  position: absolute;
+  top: 2316px;
+  left: 351px;
+  width: 1263px;
+  height: 784px;
+  font-size: var(--font-size-13xl);
+}
+.icbaselineAlarmOnIcon {
+  position: absolute;
+  top: 0;
+  left: 1344px;
+  width: 270px;
+  height: 270px;
+  overflow: hidden;
+}
+.carbondataQualityDefinitionIcon,
+.gameIconscargoCrane,
+.mdiarchitectureIcon {
+  position: absolute;
+  top: 10px;
+  left: 896px;
+  width: 270px;
+  height: 270px;
+  overflow: hidden;
+}
+.gameIconscargoCrane,
+.mdiarchitectureIcon {
+  top: 0;
+  left: 448px;
+}
+.gameIconscargoCrane {
+  left: 0;
+}
+.loremIpsumDolor5,
+.quienesSomos1 {
+  position: absolute;
+  display: inline-block;
+}
+.quienesSomos1 {
+  height: 24.3%;
+  width: 52.85%;
+  top: 60.75%;
+  left: 25.96%;
+  font-weight: 900;
+  mix-blend-mode: normal;
+}
+.loremIpsumDolor5 {
+  height: 14.95%;
+  width: 83.21%;
+  top: 85.05%;
+  left: 8.43%;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.principalChild,
+.quienesSomos {
+  position: absolute;
+  top: 1382px;
+  left: 152px;
+  width: 1614px;
+  height: 642px;
+}
+.principalChild {
+  height: 53.26%;
+  width: 28.77%;
+  top: 7.73%;
+  right: 69.78%;
+  bottom: 39.02%;
+  left: 1.45%;
+  border-radius: var(--br-11xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iniciaTuProyecto {
+  position: absolute;
+  height: 18.84%;
+  width: 28.77%;
+  top: 15.54%;
+  left: 2.09%;
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  display: inline-block;
+}
+.espacioParaEjemploDeRender {
+  position: absolute;
+  height: 112.85%;
+  width: 69.78%;
+  top: 0;
+  right: 0;
+  bottom: -12.85%;
+  left: 30.22%;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gold-200);
+  display: none;
+}
+.sampleProyecto1Icon {
+  position: absolute;
+  height: 104.17%;
+  width: 64.41%;
+  top: 0;
+  right: 0;
+  bottom: -4.17%;
+  left: 35.59%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.principalItem {
+  position: absolute;
+  height: 30.99%;
+  width: 38.49%;
+  top: 73.18%;
+  right: 64.41%;
+  bottom: -4.17%;
+  left: -2.9%;
+  background-color: var(--color-gold-100);
+}
+.descripcionCortaDelContainer,
+.nombreProyecto {
+  position: absolute;
+  top: 78.39%;
+  left: 3.65%;
+  font-size: var(--font-size-41xl);
+  font-weight: 500;
+}
+.descripcionCortaDelContainer {
+  height: 13.19%;
+  width: 17.44%;
+  top: 87.67%;
+  left: 7.51%;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+}
+.claritycircleArrowLineIcon,
+.claritycircleArrowLineIcon1 {
+  position: absolute;
+  top: 1015px;
+  left: -30px;
+  width: 60px;
+  height: 60px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.claritycircleArrowLineIcon1 {
+  left: 587px;
+  width: 60.4px;
+  height: 60.4px;
+}
+.principal {
+  position: absolute;
+  top: 0;
+  left: 56px;
+  width: 1863px;
+  height: 1152px;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+}
+.component33Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray);
+}
+.ingresaYa {
+  position: absolute;
+  top: 13.13%;
+  left: 4.18%;
+  font-weight: 900;
+}
+.component33 {
+  position: absolute;
+  top: 557px;
+  left: 184px;
+  width: 359px;
+  height: 99px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-gold-200);
+}
+.pieDePaguinaParent {
+  position: absolute;
+  top: 211px;
+  left: 1px;
+  width: 1928px;
+  height: 5481px;
+  font-size: var(--font-size-77xl);
+  color: var(--color-white);
+}
+.paginaPrincipal2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 5692px;
+  overflow-y: auto;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gold-200);
+  font-family: var(--font-nunito);
+}

@@ -1,0 +1,245 @@
+.fondoGeneral,
+.logoIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.fondoGeneral {
+  background-color: var(--color-gray);
+  width: 1920px;
+  height: 1080px;
+}
+.logoIcon {
+  height: 78.13%;
+  width: 100%;
+  right: 0;
+  bottom: 21.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.constructora {
+  margin: 0;
+}
+.constructoraAlianzaSasContainer {
+  position: absolute;
+  height: 19.18%;
+  width: 81.82%;
+  top: 80.82%;
+  left: 9.09%;
+  font-weight: 900;
+  display: inline-block;
+}
+.logoAmarilloDeLaEmpresa {
+  position: absolute;
+  top: 74px;
+  left: 159px;
+  width: 550px;
+  height: 704px;
+  font-size: var(--font-size-31xl);
+  color: var(--color-gold-100);
+}
+.registroChild {
+  position: absolute;
+  top: 0;
+  left: 960px;
+  background-color: var(--color-dimgray-200);
+  width: 658px;
+  height: 1080px;
+}
+.correoElectronico {
+  position: absolute;
+  top: 123px;
+  left: 1149px;
+  font-weight: 500;
+  color: var(--color-white);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.telfono {
+  top: 403px;
+  left: 1149px;
+  font-weight: 500;
+  text-align: left;
+}
+.contrasea,
+.correoElectronico1,
+.entrar,
+.telfono,
+.usuario,
+.yaTienesUna {
+  position: absolute;
+  color: var(--color-white);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.correoElectronico1 {
+  top: 495px;
+  left: 1149px;
+  font-weight: 500;
+}
+.contrasea,
+.entrar,
+.usuario,
+.yaTienesUna {
+  top: 784px;
+  left: 1151px;
+}
+.contrasea,
+.entrar,
+.usuario {
+  top: 825px;
+  left: 1257px;
+  color: var(--color-gold-100);
+}
+.contrasea,
+.usuario {
+  top: 219px;
+  left: 1149px;
+  font-weight: 500;
+  color: var(--color-white);
+}
+.contrasea {
+  top: 311px;
+}
+.registroItem {
+  position: absolute;
+  top: 929px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1920px;
+  height: 151px;
+}
+.contactanos {
+  position: absolute;
+  top: 988px;
+  left: 221px;
+  font-weight: 500;
+}
+.api,
+.ayuda,
+.blog,
+.informacin,
+.privacidad,
+.terminos {
+  position: absolute;
+  top: 988px;
+  left: 1567px;
+  font-weight: 500;
+}
+.api,
+.ayuda,
+.blog,
+.privacidad,
+.terminos {
+  left: 1379px;
+}
+.api,
+.ayuda,
+.privacidad,
+.terminos {
+  left: 1172px;
+}
+.api,
+.privacidad,
+.terminos {
+  left: 921px;
+}
+.api,
+.terminos {
+  left: 671px;
+}
+.api {
+  left: 496px;
+}
+.botonRegistrarseChild,
+.rectanguloAmarillo{
+  position: absolute;
+  top: 879px;
+  left: 1096px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1.5px solid var(--color-gold-200);
+  box-sizing: border-box;
+  width: 394px;
+  height: 118px;
+}
+.botonRegistrarseChild,
+.rectanguloAmarillo {
+  top: 65px;
+  height: 646px;
+}
+.botonRegistrarseChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gold-300);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 3px solid var(--color-black);
+}
+.registrarse {
+  position: absolute;
+  height: 44.67%;
+  width: 75%;
+  top: 28%;
+  left: 12.4%;
+  display: inline-block;
+  cursor: pointer;
+}
+.botonRegistrarse {
+  position: absolute;
+  top: 608px;
+  left: 1168px;
+  width: 250px;
+  height: 75px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+.cuadro1,
+.cuadro2,
+.cuadro3,
+.cuadro4,
+.cuadro5 {
+  position: absolute;
+  top: 536px;
+  left: 1149px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gainsboro-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 281px;
+  height: 44px;
+}
+.cuadro1,
+.cuadro2,
+.cuadro3,
+.cuadro4 {
+  top: 444px;
+}
+.cuadro1,
+.cuadro2,
+.cuadro3 {
+  top: 352px;
+}
+.cuadro1,
+.cuadro2 {
+  top: 260px;
+}
+.cuadro1 {
+  top: 168px;
+}
+.registro {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow-y: auto;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gold-200);
+  font-family: var(--font-nunito);
+}
